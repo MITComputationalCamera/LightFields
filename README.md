@@ -38,7 +38,7 @@ You can also create a lightfield with a flatbed scanner+lenticulars (http://grou
 Tasks
 -----
 
-Part 1: Programmable focus:
+Part 1: Programmable focus (60 pts):
 Using the attached MATLAB code, compute images with planes of focus at different depths (shift each photo by a specific amount successively and compute an average).
 Output1: Digitally focus at infinity (average of all photos)
 Output2: Digitally focus on back plane (shift some and average)
@@ -46,8 +46,8 @@ Output3: Digitally focus on front plane (shift more and average)
 This is the key part of this assignment: The Output2 should demonstrate a see-thru effects.
 
 
-Part 2: Extra Credit and Completely Optional (12pts)
-= implement on Android as app 
+Part 2: Extra Credit and Completely Optional (+12pts)
+= implement these concepts as an Android app
 = Find depth of each pixel using max-contrast operator
 = See-thru effect by elminating foreground color pixels
 For rejecting a given plane, instead of taking average of 16 values, take the majority vote.
@@ -63,7 +63,7 @@ http://graphics.stanford.edu/papers/shear-warp/
 Submission
 ==========
 MIT/Skoltech Students:
- Submit all input images, source code and output for each part above. Also post your final images to the FB page.
+Submit all input images, source code and output for each part above. Also post your final images to the FB page.
 
 Online Students:
-Pl also use the facebook page to post final results.
+Post your final images to the FB Page
