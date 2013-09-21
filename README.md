@@ -22,7 +22,7 @@ Assignment Overview:
 See examples at http://lightfield.stanford.edu/lfs.html (click on 'View Lightfield Online')
 http://lightfield.stanford.edu/aperture.html
 
-Be sure to use high depth complexity, colorful, point specular (spherical) objects in your images.
+You will be doing all of this in MATLAB. Be sure to use high depth complexity, colorful, point specular (spherical) objects in your images.
 
 To create multiple camera views, you can also aim at an array of mirrors, put the camera on a robot or x-y platform.
 
