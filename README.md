@@ -40,30 +40,30 @@ Tasks
 
 Part 1: Programmable focus (60 pts):
 Using the attached MATLAB code, compute images with planes of focus at different depths (shift each photo by a specific amount successively and compute an average).
-Output1: Digitally focus at infinity (average of all photos)
-Output2: Digitally focus on back plane (shift some and average)
-Output3: Digitally focus on front plane (shift more and average)
+-[] Output1: Digitally focus at infinity (average of all photos)
+-[] Output2: Digitally focus on back plane (shift some and average)
+-[] Output3: Digitally focus on front plane (shift more and average)
 This is the key part of this assignment: The Output2 should demonstrate a see-thru effects.
 
 
 Part 2: Extra Credit and Completely Optional (+12pts)
-= implement these concepts as an Android app
-= Find depth of each pixel using max-contrast operator
-= See-thru effect by elminating foreground color pixels
+-[] implement these concepts as an Android app
+-[] Find depth of each pixel using max-contrast operator
+-[] See-thru effect by elminating foreground color pixels
 For rejecting a given plane, instead of taking average of 16 values, take the majority vote.
 Median of 16 values will work in some cases, but the most common value will be a more robust choice.
 If there is no clear majority, i.e. if the most common count is say below 5, set the pixel to black.
-= Compute images with variable depth of field (Use fewer photos picked from near the center position. Fewer photos means a larger depth of field.)
-= Compute images with slanted plane of focus
+-[]Compute images with variable depth of field (Use fewer photos picked from near the center position. Fewer photos means a larger depth of field.)
+-[]Compute images with slanted plane of focus
 (scheimpflug principle http://en.wikipedia.org/wiki/Scheimpflug_principle )
 http://graphics.stanford.edu/papers/shear-warp/
-= Create new bokeh (point spread function)
+-[]Create new bokeh (point spread function)
 
 
 Submission
 ==========
 MIT/Skoltech Students:
-Submit all input images, source code and output for each part above. Also post your final images to the FB page.
+Submit all input images, source code and output for each part above on Stellar. Also post your final images to the FB page.
 
 Online Students:
 Post your final images to the FB Page
