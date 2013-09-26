@@ -40,12 +40,12 @@ This is the key part of this assignment: The Output2 should demonstrate a see-th
 
 
 Part 2: OPTIONAL Extra Credit (+8pts)
-- A) Implement these concepts as an Android app
+- A) Implement these concepts as an Android app (upload your .apk file)
 
 
-Part 3: OPTIONAL additional activities (+2 each)
+Part 3: OPTIONAL Additional Extra Credit (+2 each)
 - A) Find depth of each pixel using max-contrast operator
-- B) See-thru effect by elminating foreground color pixels
+- B) Show the see-thru effect by elminating foreground color pixels
 For rejecting a given plane, instead of taking average of 16 values, take the majority vote.
 Median of 16 values will work in some cases, but the most common value will be a more robust choice.
 If there is no clear majority, i.e. if the most common count is say below 5, set the pixel to black.
