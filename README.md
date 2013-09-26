@@ -29,7 +29,7 @@ You can also use unstrcutured positions and use a calibration target (or structu
 
 Tasks
 -----
-You will be using the code hosted above (You will not need to write huge blocks of code. Simply tweak the existing code as you see fit to perform the tasks below).
+Please use the code hosted above (You will not need to write huge blocks of code. Simply tweak the existing code as you see fit to perform the tasks below).
 
 Part 1: Programmable focus and with your OWN images (60 pts):
 Using the attached MATLAB code, compute images with planes of focus at different depths (shift each photo by a specific amount successively and compute an average).
