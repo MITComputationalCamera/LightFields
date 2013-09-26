@@ -36,7 +36,7 @@ Using the attached MATLAB code, compute images with planes of focus at different
 - A) Digitally focus at infinity (simply take the average of all photos)
 - B) Digitally focus on back plane (simply shift some and average)
 - C) Digitally focus on front plane (simply shift more and average)
-This is the key part of this assignment: The Output2 should demonstrate a see-thru effects.
+This is the key part of this assignment: The Task B (Output 2) should demonstrate a see-thru effects.
 
 
 Part 2: OPTIONAL Extra Credit (+8pts)
